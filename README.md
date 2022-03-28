@@ -1,1 +1,1 @@
-# AWS-Lambda-Trigger_Automation
+AWS-Lambda-Trigger_Automation
